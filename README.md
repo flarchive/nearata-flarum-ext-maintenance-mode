@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of nearata/flarum-ext-maintenance-mode.** Not for installation: use [Packagist](https://packagist.org/packages/nearata/flarum-ext-maintenance-mode) or the [upstream repository](https://github.com/Nearata/flarum-ext-maintenance-mode).
 
-**0** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/nearata-flarum-ext-maintenance-mode/tree/archive/v1.0.0) · License: `Unlicense` · Flarum: `^1.7.0`
+**1** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/nearata-flarum-ext-maintenance-mode/tree/archive/v1.0.0) · License: `Unlicense` · Flarum: `^1.7.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2023-04-29 | `^1.7.0` | [Browse](https://github.com/flarchive/nearata-flarum-ext-maintenance-mode/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/nearata-flarum-ext-maintenance-mode.json](https://github.com/flarchive/archive-index/blob/main/packages/nearata-flarum-ext-maintenance-mode.json)
 
